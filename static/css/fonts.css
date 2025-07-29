@@ -21,7 +21,7 @@
 
 @font-face {
   font-family: 'IBM Plex Mono';
-  src: url('fonts/plex/IBM-Plex-Mono/IBMPlexMono-Regular.ttf') format('truetype');
+  src: url('/epistemic_refractions/fonts/plex/IBM-Plex-Mono/IBMPlexMono-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
@@ -42,7 +42,7 @@
 
 @font-face {
   font-family: 'Baskerville';
-  src: url('fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
+  src: url('/epistemic_refractions/fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
