@@ -42,7 +42,7 @@
 
 @font-face {
   font-family: 'Baskerville';
-  src: url('/fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
+  src: url('fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
