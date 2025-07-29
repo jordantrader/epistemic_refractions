@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'BaskervilleCustom', serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #1a1a1a;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'BaskervilleCustom', serif;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+code, pre {
+  font-family: 'IBMPlexMono', monospace;
+  font-size: 0.9rem;
+  background-color: #f4f4f4;
+  padding: 0.25rem;
+}
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}

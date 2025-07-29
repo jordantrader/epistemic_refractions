@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "The Logic of Recognition"
 theme = "etch"
 publishDir = "docs"
+emableEmoji = true
 
 [params]
   description = "A transmission-grade site for clarity, alignment, and knowledge integrity."
