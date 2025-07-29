@@ -1,0 +1,9 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3 {
+  font-family: 'Baskerville', serif;
+  font-weight: 400;
+}

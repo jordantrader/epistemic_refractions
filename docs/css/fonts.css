@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'IBM Plex Sans';
+  src: url('/fonts/plex/IBMPlexSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  src: url('/fonts/plex/IBMPlexSans-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  src: url('/fonts/plex/IBMPlexSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url('/fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}

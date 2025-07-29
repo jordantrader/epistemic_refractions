@@ -1,0 +1,15 @@
+
+baseURL = "https://jordantrader.github.io/"
+languageCode = "en-us"
+title = "Jordan Trader"
+theme = "etch"
+enableRobotsTXT = true
+
+[params]
+  description = "A site focused on language, structure, and epistemic fidelity."
+  author = "Jordan Trader"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

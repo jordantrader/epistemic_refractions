@@ -1,0 +1,17 @@
+baseURL = "https://jordantrader.github.io/epistemic_refractions/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "The Logic of Recognition"
+theme = "etch"
+publishDir = "docs"
+
+[params]
+  description = "A transmission-grade site for clarity, alignment, and knowledge integrity."
+  author = "Jordan Trader"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
