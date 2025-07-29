@@ -42,7 +42,7 @@
 
 @font-face {
   font-family: 'Baskerville';
-  src: url('/epistemic_refractions/fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
+  src: url('../fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
