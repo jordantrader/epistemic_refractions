@@ -1,3 +1,8 @@
++++
+title = "right waiting"
+date = "2025-07-29"
+draft = false
++++
 # Right Waiting
 
 We speak often of right action, right speech, right livelihood. But we rarely name what may be most crucial of all:  

@@ -1,3 +1,8 @@
++++
+title = "when form transmits without comprehension"
+date = "2025-07-29"
+draft = false
++++
 # When Form Transmits Without Comprehension
 
 There is a sentence I’ve come to understand, slowly, across years of illness, exposure to signal, and attempts to make sense of why certain things *cut through* even when I didn’t understand them. The sentence is this:

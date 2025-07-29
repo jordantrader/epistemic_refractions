@@ -1,3 +1,8 @@
++++
+title = "why i sent a transmission"
+date = "2025-07-29"
+draft = false
++++
 # Why I Sent a Transmission Instead of a Resume
 
 When I applied for work from bed, with a damaged nervous system and no conventional résumé, I knew how it would look. But I wasn’t applying to be seen. I was testing something quieter: whether structural clarity, under pressure, could still transmit.

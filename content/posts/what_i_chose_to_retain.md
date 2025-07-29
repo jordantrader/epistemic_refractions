@@ -1,3 +1,8 @@
++++
+title = "what i chose to retain"
+date = "2025-07-29"
+draft = false
++++
 # What I Chose to Retain  
 *On Constraint, Clarity, and the Quiet Refusal to Break*
 

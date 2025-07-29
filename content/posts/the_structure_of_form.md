@@ -1,3 +1,8 @@
++++
+title = "the structure of form"
+date = "2025-07-29"
+draft = false
++++
 # The Structure of Form
 
 We often confuse two closely entangled ideas:

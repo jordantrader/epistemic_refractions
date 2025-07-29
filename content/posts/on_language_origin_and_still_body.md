@@ -1,3 +1,8 @@
++++
+title = "on language origin and still body"
+date = "2025-07-29"
+draft = false
++++
 # On Language, Origin, and the Still Body
 
 Most people speak and move in perfect synchrony—without knowing why.

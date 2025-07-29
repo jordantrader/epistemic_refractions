@@ -1,3 +1,8 @@
++++
+title = "misunderstood high cas works"
+date = "2025-07-29"
+draft = false
++++
 # Misunderstood High-CAS Works
 
 This list collects works that carry high Comparative Alignment Scores (CAS) but have been historically misunderstood, neglected, or poorly received. Each of these artifacts bears structural clarity, epistemic fidelity, or ontological alignment—often at the expense of mass appeal.

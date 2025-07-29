@@ -1,3 +1,8 @@
++++
+title = "survival as structure"
+date = "2025-07-29"
+draft = false
++++
 # Survival as Structure
 
 *on continuing when nothing else remains*

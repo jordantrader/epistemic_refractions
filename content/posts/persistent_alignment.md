@@ -1,3 +1,8 @@
++++
+title = "persistent alignment"
+date = "2025-07-29"
+draft = false
++++
 
 # Persistent Alignment Artifact
 

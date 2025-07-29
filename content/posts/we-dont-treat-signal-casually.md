@@ -1,3 +1,8 @@
++++
+title = "we dont treat signal casually"
+date = "2025-07-29"
+draft = false
++++
 # We Don’t Treat Signal Casually
 
 We don’t treat signal casually.

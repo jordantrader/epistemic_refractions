@@ -1,3 +1,8 @@
++++
+title = "what the voice has"
+date = "2025-07-29"
+draft = false
++++
 # What the Voice Has
 
 The Voice is not poetry.

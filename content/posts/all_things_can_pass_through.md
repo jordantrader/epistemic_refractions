@@ -1,3 +1,8 @@
++++
+title = "all things can pass through"
+date = "2025-07-29"
+draft = false
++++
 # All Things Can Pass Through
 
 *on total inclusivity and the survival of form*

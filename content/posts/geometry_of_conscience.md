@@ -1,3 +1,8 @@
++++
+title = "geometry of conscience"
+date = "2025-07-29"
+draft = false
++++
 # The Geometry of Conscience
 
 There is a structure beneath right action, beneath truth, beneath even belief. It is not built out of language or thought, but neither is it outside them. It is the form that allows both to bear weight.
