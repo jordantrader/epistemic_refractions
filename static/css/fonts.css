@@ -20,12 +20,44 @@
 }
 
 @font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('/fonts/plex/IBM-Plex-Mono/IBMPlexMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('/fonts/plex/IBM-Plex-Mono/IBMPlexMono-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('/fonts/plex/IBM-Plex-Mono/IBMPlexMono-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Baskerville';
   src: url('/fonts/baskerville/Baskerville-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
+@font-face {
+    font-family: 'Noto Color Emoji';
+    src url('/fonts/emoji/NotoColorEmoji.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
 body {
-    font-family: "Baskerville", "IBM Plex Sans", "Noto Color Emoji", sans-serif;
+    font-family: "Baskerville", "IBM Plex Sans", "Noto Color Emoji", sans-serif, monospace;
+}
+
+code, pre, .mono {
+    font-family: "IBM Plex Mono', monospace; 
 }
